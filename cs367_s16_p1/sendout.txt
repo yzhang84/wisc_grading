@@ -1,0 +1,10 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+I don't know ghanson
+Enter command:
+Can't send yourself a message
+Enter command:
+Sent successfully
+Enter command:

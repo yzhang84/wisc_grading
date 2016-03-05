@@ -1,0 +1,33 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+From: rdixon To: lday Message: Lets meet today Time Sent: Tue Jan 19 23:34:52 CST 2016
+Enter command:
+No messages
+Enter command:
+No messages
+Enter command:
+No messages
+Enter command:
+From: rdixon To: lday Message: Lets meet today Time Sent: Tue Jan 19 23:34:52 CST 2016
+Enter command:
+From: rdixon To: lday Message: Lets meet today Time Sent: Tue Jan 19 23:34:52 CST 2016
+Enter command:
+Logged out
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+No messages
+Enter command:
+From: rdixon To: afisher Message: How are you? Time Sent: Tue Jan 19 23:32:56 CST 2016
+From: rdixon To: lday Message: Lets meet today Time Sent: Tue Jan 19 23:34:52 CST 2016
+From: rdixon To: rdixbf Message: Good night!! Time Sent: Tue Jan 19 23:36:54 CST 2016
+Enter command:
+Invalid command
+Enter command:
+From: rdixon To: rdixbf Message: Good night!! Time Sent: Tue Jan 19 23:36:54 CST 2016
+Enter command:
+From: rdixon To: afisher Message: How are you? Time Sent: Tue Jan 19 23:32:56 CST 2016
+Enter command:

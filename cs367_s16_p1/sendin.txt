@@ -1,0 +1,5 @@
+preed
+welcomePREED
+send message: ghanson, "Hi"
+send message: preed, "Hi"
+send message: rdixon, "Hi"

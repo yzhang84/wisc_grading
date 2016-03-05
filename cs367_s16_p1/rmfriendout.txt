@@ -1,0 +1,12 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+Not a friend
+Enter command:
+Not a friend
+Enter command:
+Successfully removed
+Enter command:
+Not a friend
+Enter command:

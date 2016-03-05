@@ -1,0 +1,12 @@
+Enter nickname:
+Enter password:
+Invalid nickname/password combination--Try again
+Enter nickname:
+Enter password:
+Invalid nickname/password combination--Try again
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+Logged out
+Enter nickname:

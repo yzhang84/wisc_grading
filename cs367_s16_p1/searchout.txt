@@ -1,0 +1,14 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+Last name: reed First name: patricia Nickname: preed Friend: no
+Last name: hanson First name: gary Nickname: ghanson Friend: no
+Last name: fisher First name: arthur Nickname: afisher Friend: no
+Last name: dixon First name: ralph Nickname: rdixon Friend: yes
+Last name: elliott First name: katherine Nickname: kelliott Friend: no
+Enter command:
+Last name: reed First name: patricia Nickname: preed Friend: no
+Last name: fisher First name: arthur Nickname: afisher Friend: no
+Last name: elliott First name: katherine Nickname: kelliott Friend: no
+Enter command:

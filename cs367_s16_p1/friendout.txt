@@ -1,0 +1,14 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+You can't be your own friend
+Enter command:
+Can't locate xyz
+Enter command:
+Already a friend
+Enter command:
+Successfully added
+Enter command:
+Already a friend
+Enter command:

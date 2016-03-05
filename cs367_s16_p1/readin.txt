@@ -1,0 +1,16 @@
+lday
+welcomeLDAY
+read messages unread from: rdixon
+read messages unread from: xyz
+read messages unread from: rdixon
+read messages unread
+read messages all
+read messages all from: rdixon
+logout
+rdixon
+welcomeRDIXON
+read messages unread
+read messages all
+read messages from: rdixbf
+read messages all from: rdixbf
+read messages all from: afisher

@@ -1,0 +1,14 @@
+Enter nickname:
+Enter password:
+Successfully logged in
+Enter command:
+Not a friend
+Enter command:
+Broadcast list xyz does not exist
+Enter command:
+afisher not part of rdixbf
+Enter command:
+Successfully removed
+Enter command:
+afisher not part of rdixwp
+Enter command:
